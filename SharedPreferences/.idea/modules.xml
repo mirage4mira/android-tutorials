@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SharedPreferences.iml" filepath="$PROJECT_DIR$/SharedPreferences.iml" />
-      <module fileurl="file://C:\Users\Qaifi\AndroidStudioProjects\AndroidTutorialsGit\SharedPreferences\SharedPreferences.iml" filepath="C:\Users\Qaifi\AndroidStudioProjects\AndroidTutorialsGit\SharedPreferences\SharedPreferences.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\Qaifi\AndroidStudioProjects\AndroidTutorialsGit\SharedPreferences\app\app.iml" filepath="C:\Users\Qaifi\AndroidStudioProjects\AndroidTutorialsGit\SharedPreferences\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedPreferences.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SharedPreferences.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SharedPreferences.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SharedPreferences.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SharedPreferences.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SharedPreferences.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SharedPreferences.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SharedPreferences.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SharedPreferences.app.unitTest.iml" />
     </modules>
   </component>
 </project>
